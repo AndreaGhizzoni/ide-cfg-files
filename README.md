@@ -1,1 +1,1 @@
-## my ide cfg files ##
+# My IDE configuration files
